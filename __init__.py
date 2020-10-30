@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time   : 2020/7/13 21:45
-# @Author : shi
-# @Project: tableWidget
-# @File   : __init__.py
+# *-* coding: utf-8 *-*
+# @File     : __init__.py.py
+# @Project  : zmq_demo
+# @Time     : 2020/7/13 上午10:38
+# @Author   : shi
+
 
